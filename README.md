@@ -52,9 +52,9 @@ Below is the feedback I received from a colleague: •	What are the survival rat
 
 RESOURCES:
 
-https://www.kaggle.com/kabure/titanic-eda-simple-keras-model-acc-0-8575
-https://community.tableau.com/thread/129566
-http://onlinehelp.tableau.com/current/pro/desktop/en-us/help.html
-https://community.tableau.com/thread/156968
-https://community.tableau.com/thread/149814
-https://github.com/bcko/Ud-DA-Tableau-Titanic/blob/master/writeup.md
+- https://www.kaggle.com/kabure/titanic-eda-simple-keras-model-acc-0-8575
+- https://community.tableau.com/thread/129566
+- http://onlinehelp.tableau.com/current/pro/desktop/en-us/help.html
+- https://community.tableau.com/thread/156968
+- https://community.tableau.com/thread/149814
+- https://github.com/bcko/Ud-DA-Tableau-Titanic/blob/master/writeup.md
